@@ -372,7 +372,7 @@ header {
 /*main*/
 .link {
     text-decoration: none;
-    color: initial;
+    color: black;
 }
 .link:hover{
     color: #626262;
