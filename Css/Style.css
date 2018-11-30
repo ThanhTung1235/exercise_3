@@ -355,7 +355,7 @@ header {
 
 #navbar .menu_header {
     border-top: none;
-    margin-top: 0;
+    margin-top: 10px;
     width: 600px;
 }
 
@@ -551,6 +551,7 @@ footer {
     }
 
     #navbar .menu_header {
+        margin-top: 0;
         width: 520px;
     }
 
@@ -603,6 +604,9 @@ footer {
     #navbar .menu_header {
         width: 550px;
         padding-top: 20px;
+    }
+    #navbar .btn-group{
+        padding-top: 10px;
     }
 }
 
@@ -668,6 +672,7 @@ footer {
     .title-news {
         font-size: 25px;
     }
+
 }
 
 @media only screen  and (max-width: 768px) {
@@ -691,7 +696,9 @@ footer {
     #navbar .menu_header {
         display: none;
     }
-
+    #navbar .btn-group{
+        padding-top: 0;
+    }
     #navbar .logo-sm {
         font-size: 40px;
         padding-top: 0;
