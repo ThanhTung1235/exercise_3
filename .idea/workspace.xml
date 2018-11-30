@@ -29,8 +29,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="5" />
-          <entry key="html" value="4" />
+          <entry key="css" value="6" />
+          <entry key="html" value="5" />
           <entry key="jpg" value="1" />
           <entry key="js" value="2" />
           <entry key="php" value="2" />
@@ -38,8 +38,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="5" />
-          <entry key="HTML" value="4" />
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="5" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="2" />
           <entry key="PHP" value="2" />
@@ -47,15 +47,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="4197" />
-          <entry key="html" value="4122" />
+          <entry key="css" value="4384" />
+          <entry key="html" value="4369" />
           <entry key="js" value="598" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="4197" />
-          <entry key="HTML" value="4122" />
+          <entry key="CSS" value="4384" />
+          <entry key="HTML" value="4369" />
           <entry key="JavaScript" value="598" />
         </counts>
       </usages-collector>
@@ -73,28 +73,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Blade/Index.html">
+        <entry file="file://$PROJECT_DIR$/Css/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="316" column="61" selection-start-line="316" selection-start-column="61" selection-end-line="316" selection-end-column="61" />
+            <state relative-caret-position="675">
+              <caret line="467" column="23" lean-forward="true" selection-start-line="467" selection-start-column="23" selection-end-line="468" selection-end-column="28" />
               <folding>
-                <element signature="n#style#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                <marker date="1543571534634" expanded="true" signature="1970:3572" ph="..." />
+                <marker date="1543575181947" expanded="true" signature="3967:4088" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Css/Style.css">
+        <entry file="file://$PROJECT_DIR$/Blade/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="691" column="5" lean-forward="true" selection-start-line="691" selection-start-column="5" selection-end-line="691" selection-end-column="5" />
+            <state relative-caret-position="230">
+              <caret line="295" column="68" selection-start-line="295" selection-start-column="68" selection-end-line="295" selection-end-column="68" />
               <folding>
-                <marker date="1543571826005" expanded="true" signature="3967:4088" ph="..." />
+                <element signature="n#style#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <marker date="1543575530537" expanded="true" signature="1970:3572" ph="..." />
               </folding>
             </state>
           </provider>
@@ -113,11 +113,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>footer</find>
-      <find>Senaste nytt</find>
-      <find>test</find>
-      <find>06</find>
-      <find>foo</find>
       <find>teaser-l</find>
       <find>menu_head</find>
       <find>wheather</find>
@@ -139,10 +134,15 @@
       <find>Hör Thunbergs tal.</find>
       <find>style</find>
       <find>link</find>
-      <find>news-s</find>
       <find>pd</find>
-      <find>main</find>
       <find>dot</find>
+      <find>main</find>
+      <find>news-sc</find>
+      <find>news-scrol</find>
+      <find>Svenska manifestationer för klimatet</find>
+      <find>card</find>
+      <find>news-s</find>
+      <find>title-news</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,8 +153,8 @@
       <list>
         <option value="$PROJECT_DIR$/Js/Script.js" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/Blade/Index.html" />
         <option value="$PROJECT_DIR$/Css/Style.css" />
+        <option value="$PROJECT_DIR$/Blade/Index.html" />
       </list>
     </option>
   </component>
@@ -192,6 +192,11 @@
               <item name="Exercise_3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise_3" type="462c0819:PsiDirectoryNode" />
               <item name="Blade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise_3" type="462c0819:PsiDirectoryNode" />
+              <item name="Css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,18 +249,18 @@
       <workItem from="1543203328980" duration="18764000" />
       <workItem from="1543249660820" duration="4878000" />
       <workItem from="1543377059003" duration="18012000" />
-      <workItem from="1543561377680" duration="10470000" />
+      <workItem from="1543561377680" duration="14138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80120000" />
+    <option name="totallyTimeSpent" value="83788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1731659" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1731659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -267,7 +272,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5524079" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.14872521" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -317,26 +322,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Css/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="467" column="23" lean-forward="true" selection-start-line="467" selection-start-column="23" selection-end-line="468" selection-end-column="28" />
+          <folding>
+            <marker date="1543575181947" expanded="true" signature="3967:4088" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Blade/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="316" column="61" selection-start-line="316" selection-start-column="61" selection-end-line="316" selection-end-column="61" />
+          <caret line="295" column="68" selection-start-line="295" selection-start-column="68" selection-end-line="295" selection-end-column="68" />
           <folding>
             <element signature="n#style#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <marker date="1543571534634" expanded="true" signature="1970:3572" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Css/Style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="691" column="5" lean-forward="true" selection-start-line="691" selection-start-column="5" selection-end-line="691" selection-end-column="5" />
-          <folding>
-            <marker date="1543571826005" expanded="true" signature="3967:4088" ph="..." />
+            <marker date="1543575530537" expanded="true" signature="1970:3572" ph="..." />
           </folding>
         </state>
       </provider>
