@@ -49,7 +49,9 @@
 .pd-b {
     padding-bottom: 20px;
 }
-
+.pd{
+    padding: 8px;
+}
 .fl-l {
     float: left;
 }
@@ -233,7 +235,7 @@ header {
 
 /*.nav-link:hover {*/
 /*border-bottom: 3px solid #DA000D;*/
-/*transition: ease-in-out .15s;*/
+/*transition: ease-in-out .15s;ease-in-out .15s;*/
 
 /*}*/
 
@@ -439,7 +441,29 @@ ul.teaser-list li:last-child {
     overflow: auto;
 
 }
-
+.scroll{
+    position: relative;
+}
+.btn-scroll{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    background-color: hsla(0,0%,40%,.75);
+    border-radius: 50%;
+    border: none;
+    color: white;
+    top: 155px;
+    z-index: 1;
+}
+.btn-scroll:hover{
+    background-color: #8c5554;
+}
+.left{
+    left: 15px;
+}
+.right{
+    right: 15px;
+}
 .news-scroll {
     overflow: hidden;
     height: 266px;
