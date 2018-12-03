@@ -438,6 +438,7 @@ header {
 .active{
     background: #fff;
 }
+
 .wheather-header span:first-child {
     text-transform: uppercase;
     font-weight: bold;
