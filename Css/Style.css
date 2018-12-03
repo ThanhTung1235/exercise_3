@@ -365,7 +365,7 @@ header {
     background: white;
     right: 0;
     left: 0;
-    z-index: 2;
+    z-index: 3;
 }
 
 #navbar .menu_header {
@@ -389,7 +389,7 @@ header {
     border: 1px solid #666666;
     padding: 0;
     position: absolute;
-    z-index: 100;
+    z-index: 2;
     top: 100%;
     left: 0;
     right: 0;
