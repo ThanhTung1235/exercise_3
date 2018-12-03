@@ -20,47 +20,48 @@
     <session id="-2128366563">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.35" value="2" />
           <entry key="project.open.time.37" value="2" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.50" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="6" />
+          <entry key="css" value="8" />
           <entry key="html" value="5" />
           <entry key="jpg" value="1" />
-          <entry key="js" value="2" />
+          <entry key="js" value="3" />
           <entry key="php" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="6" />
+          <entry key="CSS" value="8" />
           <entry key="HTML" value="5" />
           <entry key="Image" value="1" />
-          <entry key="JavaScript" value="2" />
+          <entry key="JavaScript" value="3" />
           <entry key="PHP" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="4570" />
-          <entry key="html" value="4571" />
-          <entry key="js" value="1205" />
+          <entry key="css" value="5497" />
+          <entry key="html" value="5332" />
+          <entry key="js" value="2145" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="4570" />
-          <entry key="HTML" value="4571" />
-          <entry key="JavaScript" value="1205" />
+          <entry key="CSS" value="5497" />
+          <entry key="HTML" value="5332" />
+          <entry key="JavaScript" value="2145" />
         </counts>
       </usages-collector>
     </session>
@@ -70,35 +71,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Js/Script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="240">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Css/Style.css">
+        <entry file="file://$PROJECT_DIR$/Blade/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="471" column="1" selection-start-line="471" selection-start-column="1" selection-end-line="471" selection-end-column="1" />
+            <state relative-caret-position="256">
+              <caret line="106" column="39" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="39" />
               <folding>
-                <marker date="1543768701624" expanded="true" signature="4008:4129" ph="..." />
+                <element signature="n#style#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#nav#0;n#div#1;n#div#1;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <marker date="1543833711145" expanded="true" signature="1983:3332" ph="..." />
+                <marker date="1543833711145" expanded="false" signature="29311:32181" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Blade/Index.html">
+        <entry file="file://$PROJECT_DIR$/Css/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="246" column="90" selection-start-line="246" selection-start-column="90" selection-end-line="246" selection-end-column="90" />
+            <state relative-caret-position="590">
+              <caret line="418" column="24" selection-start-line="418" selection-start-column="24" selection-end-line="418" selection-end-column="24" />
               <folding>
-                <element signature="n#style#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                <marker date="1543770581115" expanded="true" signature="1970:3572" ph="..." />
+                <marker date="1543833711251" expanded="true" signature="4133:4254" ph="..." />
               </folding>
             </state>
           </provider>
@@ -117,36 +122,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>#navbar</find>
-      <find>menu_icon</find>
-      <find>#nav</find>
-      <find>title</find>
-      <find>menu_header</find>
-      <find>09</find>
-      <find>news</find>
-      <find>mt-1</find>
-      <find>Hon valde att leva ett enklare liv i skogen</find>
-      <find>list</find>
-      <find>style</find>
-      <find>link</find>
-      <find>dot</find>
-      <find>news-sc</find>
-      <find>news-scrol</find>
-      <find>Svenska manifestationer för klimatet</find>
-      <find>card</find>
-      <find>news-s</find>
-      <find>title-news</find>
-      <find>#navbar .menu_header</find>
-      <find>Hör Thunbergs tal.</find>
-      <find>p</find>
-      <find>item-teaser</find>
-      <find>Hör Thunbergs tal</find>
-      <find>pd</find>
-      <find>main</find>
-      <find>Utvalt för dig</find>
-      <find>scroll</find>
       <find>hover</find>
       <find>scr</find>
+      <find>scroll-</find>
+      <find>menu</find>
+      <find>nav-links</find>
+      <find>fas fa-cloud-sun wheather-icon</find>
+      <find>.menu_icon</find>
+      <find>stick</find>
+      <find>navbar</find>
+      <find>card</find>
+      <find>wheather-item d-hidden-m btn-wheather</find>
+      <find>btn</find>
+      <find>main</find>
+      <find>wheather-item</find>
+      <find>wheather-date</find>
+      <find>pd</find>
+      <find>.border-teaser</find>
+      <find>active</find>
+      <find>btn-group</find>
+      <find>wheather-content</find>
+      <find>d-flex</find>
+      <find>whea</find>
+      <find>menu_header</find>
+      <find>sun</find>
+      <find>whe</find>
+      <find>wheather-header</find>
+      <find>btn-wheather</find>
+      <find>header</find>
+      <find>scroll</find>
+      <find>wheather</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,9 +161,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/Css/Style.css" />
         <option value="$PROJECT_DIR$/Js/Script.js" />
         <option value="$PROJECT_DIR$/Blade/Index.html" />
+        <option value="$PROJECT_DIR$/Css/Style.css" />
       </list>
     </option>
   </component>
@@ -180,7 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,10 +202,16 @@
               <item name="Exercise_3" type="462c0819:PsiDirectoryNode" />
               <item name="Css" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Exercise_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise_3" type="462c0819:PsiDirectoryNode" />
+              <item name="Js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,12 +260,13 @@
       <workItem from="1543377059003" duration="18012000" />
       <workItem from="1543561377680" duration="15918000" />
       <workItem from="1543600804487" duration="938000" />
-      <workItem from="1543755415736" duration="8674000" />
+      <workItem from="1543755415736" duration="9168000" />
+      <workItem from="1543808552502" duration="16250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95180000" />
+    <option name="totallyTimeSpent" value="111924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -273,7 +284,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.1529745" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.888102" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -318,31 +329,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Js/Script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Css/Style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="471" column="1" selection-start-line="471" selection-start-column="1" selection-end-line="471" selection-end-column="1" />
-          <folding>
-            <marker date="1543768701624" expanded="true" signature="4008:4129" ph="..." />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Blade/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="246" column="90" selection-start-line="246" selection-start-column="90" selection-end-line="246" selection-end-column="90" />
+        <state relative-caret-position="256">
+          <caret line="106" column="39" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="39" />
           <folding>
+            <element signature="n#style#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#nav#0;n#div#1;n#div#1;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <marker date="1543770581115" expanded="true" signature="1970:3572" ph="..." />
+            <marker date="1543833711145" expanded="true" signature="1983:3332" ph="..." />
+            <marker date="1543833711145" expanded="false" signature="29311:32181" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Css/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="418" column="24" selection-start-line="418" selection-start-column="24" selection-end-line="418" selection-end-column="24" />
+          <folding>
+            <marker date="1543833711251" expanded="true" signature="4133:4254" ph="..." />
           </folding>
         </state>
       </provider>
