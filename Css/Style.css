@@ -394,11 +394,12 @@ header {
     left: 0;
     right: 0;
     background: #ffffff;
+    margin: 0 -10px;
+    width: auto;
 }
 .
 .wheather-header {
     font-size: 13px;
-    padding: 10px;
 }
 
 .wheather-date {
@@ -416,7 +417,7 @@ header {
     white-space: nowrap;
     overflow-x: auto;
     overflow-y: hidden;
-    padding-bottom: 17px;
+    padding-bottom: 15px;
 }
 .wheather-date p:first-child {
     font-weight: bold;
