@@ -21,7 +21,9 @@
     border: none;
     cursor: pointer;
 }
-
+.border{
+    border: 1px solid #DDDDDD;
+}
 .mt-1 {
     margin-top: 10px;
 }
@@ -53,7 +55,9 @@
 .pd {
     padding: 10px;
 }
-
+.pd-0{
+    padding: 0;
+}
 .fl-l {
     float: left;
 }
@@ -312,9 +316,11 @@ header {
 .wheather-item:last-child {
     border-right: none;
 }
-.btn-wheather{
+
+.btn-wheather {
     cursor: pointer;
 }
+
 .test {
     content: "";
     height: 40px;
@@ -397,6 +403,7 @@ header {
     margin: 0 -10px;
     width: auto;
 }
+
 .
 .wheather-header {
     font-size: 13px;
@@ -406,11 +413,13 @@ header {
     font-family: 'Noto Sans', sans-serif;
     font-size: 14px;
 }
-.wheather-scroll{
+
+.wheather-scroll {
     height: 180px;
     overflow: hidden;
 }
-.wheather-cards{
+
+.wheather-cards {
     background: #F2F2F2;
     border-top: 1px solid #afafaf;
     border-bottom: 1px solid #afafaf;
@@ -419,11 +428,11 @@ header {
     overflow-y: hidden;
     padding-bottom: 15px;
 }
+
 .wheather-date p:first-child {
     font-weight: bold;
     text-transform: uppercase;
 }
-
 
 .wheather-card {
     display: inline-block;
@@ -432,10 +441,12 @@ header {
     margin-right: 10px;
     padding-bottom: 10px;
 }
-.border-r{
+
+.border-r {
     border-right: 1px solid #afafaf;
 }
-.active{
+
+.active {
     background: #fff;
 }
 
@@ -452,9 +463,11 @@ header {
     float: right;
     cursor: pointer;
 }
-.wheather-climate{
+
+.wheather-climate {
     text-align: center;
 }
+
 .wheather-climate span {
     margin-left: 20px;
     font-size: 32px;
@@ -470,7 +483,8 @@ header {
     border-top: 1px dotted black;
     padding-top: 15px;
 }
-.wheather-footer{
+
+.wheather-footer {
     margin-left: auto;
     text-decoration: none;
     color: black;
@@ -478,6 +492,7 @@ header {
     font-size: 15px;
     padding: 10px;
 }
+
 /**/
 
 /*main*/
@@ -524,12 +539,26 @@ header {
     border-top: 5px solid #DA000D;
     border-bottom: 1px solid #CCCCCC;
     margin-top: 10px;
+    background: white;
 }
 
 .teaser-item {
     padding: 10px;
     border-bottom: 1px solid #CCCCCC;
     font-weight: bold;
+}
+.teaser-item p{
+    padding-left: 10px;
+}
+
+.teaser-item:after {
+    position: absolute;
+    top: 26px;
+    bottom: 0;
+    left: 14px;
+    background-color: #ddd;
+    width: 1px;
+    content: "";
 }
 
 .border-teaser {
@@ -545,10 +574,14 @@ ul.teaser-list li:last-child {
     cursor: pointer;
 }
 
-.teaser-list {
+.list-news-teaser {
     height: 450px;
     overflow: auto;
+    background-color: white
+}
 
+.teaser-list {
+    position: relative;
 }
 
 .scroll {
@@ -661,9 +694,13 @@ ul.teaser-list li:last-child {
     background: #989898;
 }
 
-.dot {
+.dot-active{
     font-size: 10px;
     color: #DA000D;
+}
+.dot{
+    color: #DDDDDD;
+    font-size: 10px;
 }
 
 .time-teaser {
