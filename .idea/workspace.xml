@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efe8787e-4c3e-491c-b101-f5450edacdbe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blade/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blade/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Style.css" afterDir="false" />
-    </list>
+    <list default="true" id="efe8787e-4c3e-491c-b101-f5450edacdbe" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -54,14 +50,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="5733" />
-          <entry key="html" value="5490" />
+          <entry key="html" value="5500" />
           <entry key="js" value="2145" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="5733" />
-          <entry key="HTML" value="5490" />
+          <entry key="HTML" value="5500" />
           <entry key="JavaScript" value="2145" />
         </counts>
       </usages-collector>
@@ -81,8 +77,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Blade/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="520" selection-start-line="520" selection-end-line="520" />
+            <state relative-caret-position="260">
+              <caret line="515" column="47" selection-start-line="515" selection-start-column="47" selection-end-line="515" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -90,7 +86,7 @@
                 <element signature="n#style#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                <marker date="1543906985024" expanded="true" signature="1983:3332" ph="..." />
+                <marker date="1543907033288" expanded="true" signature="1983:3332" ph="..." />
               </folding>
             </state>
           </provider>
@@ -263,16 +259,15 @@
       <workItem from="1543808552502" duration="18988000" />
       <workItem from="1543850215032" duration="1073000" />
       <workItem from="1543892727000" duration="335000" />
-      <workItem from="1543902797928" duration="4183000" />
+      <workItem from="1543902797928" duration="4491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120253000" />
+    <option name="totallyTimeSpent" value="120561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1731659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -348,8 +343,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Blade/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="520" selection-start-line="520" selection-end-line="520" />
+        <state relative-caret-position="260">
+          <caret line="515" column="47" selection-start-line="515" selection-start-column="47" selection-end-line="515" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -357,7 +352,7 @@
             <element signature="n#style#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <marker date="1543906985024" expanded="true" signature="1983:3332" ph="..." />
+            <marker date="1543907033288" expanded="true" signature="1983:3332" ph="..." />
           </folding>
         </state>
       </provider>
