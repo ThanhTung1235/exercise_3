@@ -791,10 +791,10 @@ ul.teaser-list li:last-child {
 }
 .social{
     background: #F2F2F2;
-    padding: 40px 0;
 }
 .social-item{
     text-align: center;
+    padding: 20px 0;
 }
 .social-item p{
     font-size: 13px;
@@ -946,7 +946,9 @@ ul.teaser-list li:last-child {
     .col-sm {
         width: 100%;
     }
-
+    .social-item{
+        padding: 10px 0;
+    }
     .right-item {
         display: flex;
 
