@@ -7,7 +7,7 @@ var overlay = document.getElementById("overlay");
 
 window.onload = function () {
     document.onclick = function (e) {
-        if (e.target.id == 'overlay') {
+        if (e.target.id == 'overlay' || e.target.id == 'close') {
             hi.style.display = 'none';
             overlay.style.display = "none";
         }
@@ -20,9 +20,7 @@ window.onload = function () {
 
 
 };
-close.onclick = function () {
-    hi.classList.add("d-none");
-};
+
 
 function myFunction() {
     btn_left.classList.remove("d-none");
