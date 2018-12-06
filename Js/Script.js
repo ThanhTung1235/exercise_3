@@ -1,15 +1,26 @@
 var btn_right = document.getElementById("right");
 var btn_left = document.getElementById("left");
 var scroll = document.getElementById("scroll");
-var wheather = document.getElementsByClassName("btn-wheather");
 var hi = document.getElementById("hi");
 var close = document.getElementById("close");
-for (var i = 0; i < wheather.length; i++) {
-    wheather[i].onclick = function () {
-        hi.classList.remove("d-none");
-    }
-}
-close.onclick =function () {
+var overlay = document.getElementById("overlay");
+
+window.onload = function () {
+    document.onclick = function (e) {
+        if (e.target.id == 'overlay') {
+            hi.style.display = 'none';
+            overlay.style.display = "none";
+        }
+        console.log(e.target.className);
+        if (e.target.className == 'fas fa-cloud-sun btn-wheather') {
+            hi.style.display = 'block';
+            overlay.style.display = "block";
+        }
+    };
+
+
+};
+close.onclick = function () {
     hi.classList.add("d-none");
 };
 
@@ -22,8 +33,7 @@ function myFunction() {
     if (scroll.scrollLeft == 0) {
         btn_right.classList.remove("d-none");
         btn_left.classList.add("d-none");
-    }
-    else if (scroll.offsetWidth > a && 0 < a) {
+    } else if (scroll.offsetWidth > a && 0 < a) {
         btn_right.classList.remove("d-none");
         btn_left.classList.remove("d-none");
     }
@@ -58,8 +68,7 @@ window.onscroll = function () {
 function Scroll_menu() {
     if (window.pageYOffset >= sticky) {
         nav.classList.add("sticky")
-    }
-    else {
+    } else {
 
         nav.classList.remove("sticky");
     }
